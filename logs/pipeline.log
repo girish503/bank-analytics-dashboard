@@ -1,0 +1,36 @@
+2026-03-16 15:25:41,116 - INFO - ==================================================
+2026-03-16 15:25:41,116 - INFO - PIPELINE STARTED
+2026-03-16 15:25:41,116 - INFO - Loading file: data/raw/transactions.csv
+2026-03-16 15:25:41,124 - INFO - \u2705 Loaded 15 rows, 7 columns
+2026-03-16 15:25:41,131 - INFO - \U0001f9f9 Starting data cleaning...
+2026-03-16 15:25:41,133 - WARNING - \u26a0\ufe0f Invalid amount value: ABC
+2026-03-16 15:25:41,133 - WARNING - \u26a0\ufe0f Invalid amount value: XYZ
+2026-03-16 15:25:41,147 - WARNING - \u26a0\ufe0f Dropped 2 invalid rows!
+2026-03-16 15:25:41,176 - INFO - \u2705 Cleaning done! 13 clean rows ready.
+2026-03-16 15:25:41,254 - INFO - \u2705 Database tables ready!
+2026-03-16 15:25:41,316 - INFO - \u2705 13 rows loaded to database!
+2026-03-16 15:25:41,319 - INFO - PIPELINE COMPLETE!
+2026-03-16 15:43:08,861 - INFO - ==================================================
+2026-03-16 15:43:08,861 - INFO - PIPELINE STARTED
+2026-03-16 15:43:08,861 - INFO - Loading file: data/raw/transactions.csv
+2026-03-16 15:43:08,870 - INFO - \u2705 Loaded 15 rows, 7 columns
+2026-03-16 15:43:08,885 - INFO - \U0001f9f9 Starting data cleaning...
+2026-03-16 15:43:08,891 - WARNING - \u26a0\ufe0f Invalid amount value: ABC
+2026-03-16 15:43:08,891 - WARNING - \u26a0\ufe0f Invalid amount value: XYZ
+2026-03-16 15:43:08,906 - WARNING - \u26a0\ufe0f Dropped 2 invalid rows!
+2026-03-16 15:43:08,946 - INFO - \u2705 Cleaning done! 13 clean rows ready.
+2026-03-16 15:43:08,970 - INFO - \u2705 Database tables ready!
+2026-03-16 15:43:09,007 - INFO - \u2705 13 rows loaded to database!
+2026-03-16 15:43:09,007 - INFO - PIPELINE COMPLETE!
+2026-03-16 16:18:58,608 - INFO - ==================================================
+2026-03-16 16:18:58,610 - INFO - PIPELINE STARTED
+2026-03-16 16:18:58,626 - INFO - Loading file: data/raw/transactions.csv
+2026-03-16 16:18:59,175 - INFO - \u2705 Loaded 502 rows, 7 columns
+2026-03-16 16:18:59,187 - INFO - \U0001f9f9 Starting data cleaning...
+2026-03-16 16:18:59,253 - WARNING - \u26a0\ufe0f Invalid amount value: ABC
+2026-03-16 16:18:59,253 - WARNING - \u26a0\ufe0f Invalid amount value: XYZ
+2026-03-16 16:18:59,385 - WARNING - \u26a0\ufe0f Dropped 2 invalid rows!
+2026-03-16 16:18:59,642 - INFO - \u2705 Cleaning done! 500 clean rows ready.
+2026-03-16 16:19:00,040 - INFO - \u2705 Database tables ready!
+2026-03-16 16:19:00,222 - INFO - \u2705 500 rows loaded to database!
+2026-03-16 16:19:00,254 - INFO - PIPELINE COMPLETE!
